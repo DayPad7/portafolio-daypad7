@@ -19,13 +19,18 @@ function Info() {
         </li>
         <li className={styles.link}>
           <img src={linkedin} alt="Linkedin Icon" />
-          <a href="https://www.linkedin.com/in/dayana-padilla-312042272/">
+          <a
+            href="https://www.linkedin.com/in/dayana-padilla-312042272/"
+            target="_blank"
+          >
             linkedin.com/DayanaPadilla
           </a>{" "}
         </li>
         <li className={styles.link}>
           <img src={github} alt="Github Icon" />
-          <a href="https://github.com/DayPad7">github.com/DayPad7</a>{" "}
+          <a href="https://github.com/DayPad7" target="_blank">
+            github.com/DayPad7
+          </a>{" "}
         </li>
       </ul>
     </footer>
