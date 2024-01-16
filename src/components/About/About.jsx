@@ -3,7 +3,7 @@ import korok from "../../../assets/about/korok.png?react";
 import lightIcon from "../../../assets/about/lightbulbIcon.svg?react";
 import puzzleIcon from "../../../assets/about/puzzle.svg?react";
 import desktopIcon from "../../../assets/about/desktopIcon.svg?react";
-import styles from "./about.module.css";
+import styles from "./About.module.css";
 import CV from "./CV/CV.pdf";
 import cvIcon from "./CV/cvIcon.svg?react";
 
