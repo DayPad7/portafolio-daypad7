@@ -1,5 +1,6 @@
 import photoAvatar from "../../../assets/profile/foto2.png?react";
 import styles from "./profile.module.css";
+
 function Profile() {
   return (
     <section className={styles.container}>

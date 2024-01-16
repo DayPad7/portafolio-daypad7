@@ -2,7 +2,7 @@
     {
         "title":"Latinas CodeCamp Bank",
         "imageSrc":"projects/LatinasCode.png",
-        "description": "My first App made for  Latinas Code BootCamp",
+        "description": "My first App made for  Latinas Code BootCamp [Password:1234]",
         "skills":["React", "JavaScript", "CSS" ],
         "demo": "https://daypad7.github.io/Final-project-LatinasCodeCamp1/",
         "source":"https://github.com/DayPad7/Final-project-LatinasCodeCamp1"

@@ -18,6 +18,12 @@
   text-transform: uppercase;
 }
 
+.contactBtn2 {
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: 600;
+  padding: 2%;
+}
 .content {
   display: flex;
   flex-direction: row;
@@ -56,6 +62,7 @@
   border-radius: 20px;
   list-style: none;
   padding: 25px;
+  gap: 1%;
   background-image: linear-gradient(
     90deg,
     rgba(165, 215, 232, 0.42) 0%,
@@ -79,6 +86,36 @@
   font-size: 25px;
 }
 
+.aboutItemCv {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border-radius: 20px;
+  list-style: none;
+  gap: 1%;
+  padding: 25px;
+  background-image: linear-gradient(
+    90deg,
+    rgba(165, 215, 232, 0.42) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+
+  background-size: 0 100%;
+  background-repeat: no-repeat;
+  transition: 0.4s;
+}
+.aboutItemCv:hover {
+  background-size: 100% 100%;
+}
+
+.aboutItemCv a {
+  padding: 2%;
+  font-size: 25px;
+  font-weight: 600;
+  color: var(--color-text);
+  text-decoration: none;
+}
+
 @media screen and (max-width: 830px) {
   .container {
     background-color: transparent;
@@ -95,6 +132,10 @@
     margin-top: 29px;
   }
   .aboutItem {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .aboutItemCv {
     padding-left: 0;
     padding-right: 0;
   }
