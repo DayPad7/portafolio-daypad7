@@ -7,13 +7,13 @@ function Profile() {
       <div className={styles.content}>
         <h1 className={styles.title}>Hello, I'm Dayana</h1>
         <p className={styles.description}>
-          I am Junior FrontEnd Develeper. I’ve been working on web applications
+          I am Junior FrontEnd Developer. I’ve been working on web applications
           for 1 year on my own and I absolutely love what I've learned. I
           studied Law, when i fall in love with technology.
         </p>
         <p className={styles.description}>
           I learned software development for the curiosity of knowing how things
-          work and now I am passionate in Frontend Develepment.
+          work and now I am passionate in Frontend Development.
         </p>
         <a href="mailto:dayanapadilla7@gmail.com" className={styles.contactBtn}>
           {" "}
