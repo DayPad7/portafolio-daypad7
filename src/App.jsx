@@ -4,7 +4,7 @@ import Experience from "./components/Experience/Experience";
 import Info from "./components/Info/Info";
 import Navbar from "./components/Navbar/Navbar";
 import Profile from "./components/Profile/Profile";
-import Projects from "./components/projects/projects";
+import Projects from "./components/projects/Projects";
 
 function App() {
   return (
