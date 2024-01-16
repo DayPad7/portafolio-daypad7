@@ -1,0 +1,30 @@
+[
+    {
+        "title":"Latinas CodeCamp Bank",
+        "imageSrc":"projects/LatinasCode.png",
+        "description": "My first App made for  Latinas Code BootCamp",
+        "skills":["React", "JavaScript", "CSS" ],
+        "demo": "https://daypad7.github.io/Final-project-LatinasCodeCamp1/",
+        "source":"https://github.com/DayPad7/Final-project-LatinasCodeCamp1"
+
+    },
+    {
+        "title":"Github Finder",
+        "imageSrc":"projects/GithubFinder.png",
+        "description": "This project use GithubAPI for search Users and provides their information",
+        "skills":["React", "JavaScript", "CSS"],
+        "demo": "https://github-finder-eight-black.vercel.app/",
+        "source":"https://github.com/DayPad7/github-finder"
+
+    },
+    {
+        "title":"Car Market Place",
+        "imageSrc":"projects/CarMarket.png",
+        "description": "Firebase authentication and storage, Leaflet library to show location",
+        "skills":["React", "JavaScript", "CSS", "Firebase" ],
+        "demo": "https://car-marketplace-rhnc.vercel.app/",
+        "source":"https://github.com/DayPad7/Car-Marketplace"
+
+    }
+    
+]
