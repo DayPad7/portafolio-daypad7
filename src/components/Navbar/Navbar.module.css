@@ -18,12 +18,14 @@
 
 .menu {
   display: flex;
+  text-decoration: none;
 }
 
 .menuItems {
   display: flex;
   gap: 47px;
   list-style: none;
+  text-decoration: none;
 }
 .menuItems a {
   font-size: 25px;
